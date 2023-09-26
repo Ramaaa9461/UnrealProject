@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Coin_Mat.uasset"
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Coin_Mat.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Characters/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Characters/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/CollectableCoins.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QR/P0EL1JCQ7FXAZZ51571ODX.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YV/O903SR9WXNI1ZOP7ZGLMIQ.uasset"
 			]
 		}
 	]
