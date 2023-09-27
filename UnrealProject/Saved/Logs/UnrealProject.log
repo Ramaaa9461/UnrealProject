@@ -25858,3 +25858,650 @@ If checked into source control this would affect other developers.
 [2023.09.27-03.43.08:377][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2023.09.27-03.43.08:385][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
 [2023.09.27-03.43.08:421][282]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.09.27-03.45.03:641][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.09.27-03.45.03:664][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/J8HSK8QZQQKJRJGFJZNDN7_Auto3
+[2023.09.27-03.45.03:664][  0]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/J8HSK8QZQQKJRJGFJZNDN7_Auto3D95128354B54A1A06D7DD08A4B25E1B1.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/J8HSK8QZQQKJRJGFJZNDN7_Auto3.uasset'
+[2023.09.27-03.45.03:666][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YV/O903SR9WXNI1ZOP7ZGLMIQ_Auto3
+[2023.09.27-03.45.03:666][  0]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/O903SR9WXNI1ZOP7ZGLMIQ_Auto347645DEA4E10E7AB594ED7A8AD277442.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YV/O903SR9WXNI1ZOP7ZGLMIQ_Auto3.uasset'
+[2023.09.27-03.45.03:668][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/01/2HVYXT8BDJ8NFFKS6DSHF7_Auto3
+[2023.09.27-03.45.03:668][  0]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/2HVYXT8BDJ8NFFKS6DSHF7_Auto3183DBD124D9DEDCC8CCDE68B55FD2AA1.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/01/2HVYXT8BDJ8NFFKS6DSHF7_Auto3.uasset'
+[2023.09.27-03.45.03:670][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BQ/6AWKSR7UNNMBJ3350WRQ3W_Auto3
+[2023.09.27-03.45.03:670][  0]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/6AWKSR7UNNMBJ3350WRQ3W_Auto36A9823FA4746787736132CA48142A629.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BQ/6AWKSR7UNNMBJ3350WRQ3W_Auto3.uasset'
+[2023.09.27-03.45.03:672][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/5F/FN1YXC6W0OML5P3ZZJ43WS_Auto3
+[2023.09.27-03.45.03:672][  0]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/FN1YXC6W0OML5P3ZZJ43WS_Auto30AE5D627494B9DD590391D8C6E99EA2B.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/5F/FN1YXC6W0OML5P3ZZJ43WS_Auto3.uasset'
+[2023.09.27-03.45.03:673][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.129
+[2023.09.27-03.45.03:673][  0]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.129
+[2023.09.27-03.48.52:177][934]BlueprintLog: New page: Compile BP_Live
+[2023.09.27-03.48.52:179][934]LogBlueprint: Warning: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] Could not find a variable named "RotationSpeed" in 'BP_Live_C'.
+Make sure 'BP_Live_C' has been compiled for  Set RotationSpeed
+[2023.09.27-03.48.52:179][934]LogBlueprint: Warning: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] Could not find a variable named "RotationSpeed" in 'BP_Live_C'.
+Make sure 'BP_Live_C' has been compiled for  Get RotationSpeed
+[2023.09.27-03.48.52:179][934]LogBlueprint: Warning: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] Could not find a variable named "Mesh" in 'BP_Live_C'.
+Make sure 'BP_Live_C' has been compiled for  Get Mesh
+[2023.09.27-03.48.52:181][934]LogBlueprint: Error: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/BP_Live.BP_Live_C'
+[2023.09.27-03.48.52:181][934]LogBlueprint: Error: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] The property associated with  Rotation Speed  could not be found in '/Game/Blueprints/BP_Live.BP_Live_C'
+[2023.09.27-03.48.52:181][934]LogBlueprint: Error: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] The property associated with  Rotation Speed  could not be found in '/Game/Blueprints/BP_Live.BP_Live_C'
+[2023.09.27-03.48.52:323][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.09.27-03.49.32:167][636]BlueprintLog: New page: Compile BP_Live
+[2023.09.27-03.49.32:170][636]LogBlueprint: Warning: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] Could not find a variable named "Mesh" in 'BP_Live_C'.
+Make sure 'BP_Live_C' has been compiled for  Get Mesh
+[2023.09.27-03.49.32:171][636]LogBlueprint: Error: [AssetLog] D:\Users\DEDSComputacion\Desktop\Unreal\UnrealProject\UnrealProject\Content\Blueprints\BP_Live.uasset: [Compiler] The property associated with  Mesh  could not be found in '/Game/Blueprints/BP_Live.BP_Live_C'
+[2023.09.27-03.49.32:302][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.09.27-03.49.52:968][ 85]BlueprintLog: New page: Compile BP_Live
+[2023.09.27-03.49.53:118][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2023.09.27-03.49.57:879][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-03.49.57:971][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Live" FILE="D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_Live.uasset" SILENT=true
+[2023.09.27-03.49.57:978][169]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Live
+[2023.09.27-03.49.57:978][169]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/BP_LiveEC3B9F1E48FC479544FD56A0B6A87391.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_Live.uasset'
+[2023.09.27-03.49.57:987][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 3.14 sec)
+[2023.09.27-03.49.57:999][169]AssetCheck: New page: Asset Save: BP_Live
+[2023.09.27-03.49.57:999][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Live.BP_Live
+[2023.09.27-03.50.16:059][638]BlueprintLog: New page: Compile CollectableCoins
+[2023.09.27-03.50.16:194][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.09.27-03.50.16:658][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-03.50.16:726][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CollectableCoins" FILE="D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/CollectableCoins.uasset" SILENT=true
+[2023.09.27-03.50.16:735][650]LogSavePackage: Moving output files for package: /Game/Blueprints/CollectableCoins
+[2023.09.27-03.50.16:735][650]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/CollectableCoinsE6779CFE48472A1201DF1FAD85D9DF26.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/CollectableCoins.uasset'
+[2023.09.27-03.50.16:744][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.22 sec)
+[2023.09.27-03.50.16:755][650]AssetCheck: New page: Asset Save: CollectableCoins
+[2023.09.27-03.50.16:755][650]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CollectableCoins.CollectableCoins
+[2023.09.27-03.50.35:852][803]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes
+[2023.09.27-03.50.35:853][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.54.15:245][920]LogDerivedDataCache: C:/Users/DEDSComputacion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.098 and deleted 0 files with total size 0 MiB. Scanned 2006 files in 1998 folders with total size 56 MiB.
+[2023.09.27-03.54.58:145][958]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.09.27-03.54.58:348][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.09.27-03.54.59:507][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-03.54.59:630][972]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ThirdPersonCharacter
+[2023.09.27-03.54.59:631][972]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/BP_ThirdPersonCharacter2DBFE1AE4526E7D80F0EEEAC45558D8C.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.27-03.54.59:642][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 3.36 sec)
+[2023.09.27-03.54.59:653][972]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.27-03.54.59:653][972]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.27-03.55.04:355][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.09.27-03.55.04:367][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5C/AHP2AZOYX17PCGXFIV821H_Auto4
+[2023.09.27-03.55.04:367][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/AHP2AZOYX17PCGXFIV821H_Auto4A4EE02454C59CD7B7EE2D79945E11DF0.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5C/AHP2AZOYX17PCGXFIV821H_Auto4.uasset'
+[2023.09.27-03.55.04:369][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/J8HSK8QZQQKJRJGFJZNDN7_Auto4
+[2023.09.27-03.55.04:369][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/J8HSK8QZQQKJRJGFJZNDN7_Auto4BE1107E749605B81BD67A89DBEDC4E5B.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/J8HSK8QZQQKJRJGFJZNDN7_Auto4.uasset'
+[2023.09.27-03.55.04:371][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3Y/ORZHRUS8LH9NSNEFVYH02H_Auto4
+[2023.09.27-03.55.04:372][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/ORZHRUS8LH9NSNEFVYH02H_Auto45433180C4E5E6D648CEB6ABE91A80E03.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/3Y/ORZHRUS8LH9NSNEFVYH02H_Auto4.uasset'
+[2023.09.27-03.55.04:376][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YV/O903SR9WXNI1ZOP7ZGLMIQ_Auto4
+[2023.09.27-03.55.04:377][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/O903SR9WXNI1ZOP7ZGLMIQ_Auto43BBE75EA4A98C2D67BFC9089678A7221.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YV/O903SR9WXNI1ZOP7ZGLMIQ_Auto4.uasset'
+[2023.09.27-03.55.04:393][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A6/K15MEJGUD4OL7XIK30P51D_Auto4
+[2023.09.27-03.55.04:393][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/K15MEJGUD4OL7XIK30P51D_Auto4CEC01AE74EE086C0BAB386B94094D2C1.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/A6/K15MEJGUD4OL7XIK30P51D_Auto4.uasset'
+[2023.09.27-03.55.04:394][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/01/2HVYXT8BDJ8NFFKS6DSHF7_Auto4
+[2023.09.27-03.55.04:394][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/2HVYXT8BDJ8NFFKS6DSHF7_Auto4918F9967493FAE832BE820B39D7D37AF.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/01/2HVYXT8BDJ8NFFKS6DSHF7_Auto4.uasset'
+[2023.09.27-03.55.04:395][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BQ/6AWKSR7UNNMBJ3350WRQ3W_Auto4
+[2023.09.27-03.55.04:395][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/6AWKSR7UNNMBJ3350WRQ3W_Auto4AF3D72FC473CE94EAEA2478BC426C379.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BQ/6AWKSR7UNNMBJ3350WRQ3W_Auto4.uasset'
+[2023.09.27-03.55.04:397][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/5F/FN1YXC6W0OML5P3ZZJ43WS_Auto4
+[2023.09.27-03.55.04:397][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/FN1YXC6W0OML5P3ZZJ43WS_Auto4B9FAD7274BA5F92225D5D5BD5CFC315C.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/5F/FN1YXC6W0OML5P3ZZJ43WS_Auto4.uasset'
+[2023.09.27-03.55.04:397][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.143
+[2023.09.27-03.55.04:397][109]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.143
+[2023.09.27-03.55.04:398][109]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Spikes] ([2] browsable assets)...
+[2023.09.27-03.55.04:451][109]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Spikes.BP_Spikes]
+[2023.09.27-03.55.04:451][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Spikes]
+[2023.09.27-03.55.04:460][109]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Spikes_Auto4
+[2023.09.27-03.55.04:460][109]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/BP_Spikes_Auto4849E6054449B8BF137BDAD959E783244.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Autosaves/Game/Blueprints/BP_Spikes_Auto4.uasset'
+[2023.09.27-03.55.04:460][109]LogFileHelpers: Auto-saving content packages took 0.063
+[2023.09.27-03.55.04:994][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-03.55.05:000][128]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.09.27-03.55.05:002][128]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.27-03.55.05:002][128]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.27-03.55.05:002][128]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 942 us)
+[2023.09.27-03.55.05:003][128]LogWorldPartition: Display: GenerateStreaming took 272 us (total: 4 ms)
+[2023.09.27-03.55.05:003][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-03.55.05:003][128]PIE: New page: PIE session: ThirdPersonMap (Sep 26, 2023, 9:55:05 PM)
+[2023.09.27-03.55.05:003][128]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.05:009][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005808s)
+[2023.09.27-03.55.05:009][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005842s)
+[2023.09.27-03.55.05:009][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.55.05:009][128]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.55.05:010][128]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.55.05:010][128]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.55.05:010][128]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.55.05:011][128]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.55.05:011][128]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 849 ms)
+[2023.09.27-03.55.05:011][128]LogPlayLevel: PIE: World Init took: (0.002508s)
+[2023.09.27-03.55.05:106][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.09.27-03.55.05:107][128]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.27-03.55.05:107][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.27-03.55.05:107][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-03.55.05:108][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-03.55.05:108][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-03.55.05:108][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-03.55.05:110][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-03.55.05:134][128]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2023.09.27-03.55.05:134][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-03.55.05:134][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-03.55.05:134][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-03.55.05:135][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.27-03.55.05:135][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.27-03.55.05:137][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.27-03.55.05:137][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.27-03.55.05:137][128]LogInit: FAudioDevice initialized.
+[2023.09.27-03.55.05:137][128]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.55.05:140][128]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.55.05:142][128]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.55.05
+[2023.09.27-03.55.05:143][128]LogWorld: Bringing up level for play took: 0.002322
+[2023.09.27-03.55.05:144][128]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.09.27-03.55.05:148][128]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.55.05:148][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.05:148][128]PIE: Server logged in
+[2023.09.27-03.55.05:149][128]PIE: Play in editor total start time 0.148 seconds.
+[2023.09.27-03.55.07:078][152]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.09:088][188]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.11:126][228]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 4
+[2023.09.27-03.55.11:713][238]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1221903475] 1
+[2023.09.27-03.55.11:882][241]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1224494476] 2
+[2023.09.27-03.55.12:114][245]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1226308477] 3
+[2023.09.27-03.55.12:278][248]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1228442478] 4
+[2023.09.27-03.55.13:192][264]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 4
+[2023.09.27-03.55.13:607][271]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2023.09.27-03.55.13:805][274]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2023.09.27-03.55.14:020][277]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2023.09.27-03.55.14:222][281]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2023.09.27-03.55.14:454][285]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.55.14:816][288]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2023.09.27-03.55.15:039][293]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2023.09.27-03.55.15:206][297]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 4
+[2023.09.27-03.55.15:240][298]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2023.09.27-03.55.15:456][303]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2023.09.27-03.55.15:696][309]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.15:925][316]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.16:149][323]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.16:373][330]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.16:595][337]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.16:819][344]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.17:044][351]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.17:234][357]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: -3
+[2023.09.27-03.55.17:266][358]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.17:490][365]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.17:721][372]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.17:749][373]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.17:750][373]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.17:750][373]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.17:753][373]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.55.17:753][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.17:753][373]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.55.17:850][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.55.17:854][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.09.27-03.55.17:863][373]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.17:869][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005886s)
+[2023.09.27-03.55.17:869][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005927s)
+[2023.09.27-03.55.17:869][373]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.55.17:870][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.55.17:870][373]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.55.17:870][373]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.55.17:870][373]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.55.17:870][373]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.55.17:872][373]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.55.17:872][373]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 851 ms)
+[2023.09.27-03.55.17:872][373]LogPlayLevel: PIE: World Init took: (0.002515s)
+[2023.09.27-03.55.17:872][373]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.55.17:874][373]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.55.17
+[2023.09.27-03.55.17:874][373]LogWorld: Bringing up level for play took: 0.002267
+[2023.09.27-03.55.17:878][373]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.17:878][373]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.55.17:879][373]LogLoad: Took 0.130205 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.55.19:720][427]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 4
+[2023.09.27-03.55.20:420][448]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB2AC01_1558086122] 1
+[2023.09.27-03.55.20:652][455]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1221903475] 2
+[2023.09.27-03.55.20:852][461]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1224494476] 3
+[2023.09.27-03.55.21:050][467]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1226308477] 4
+[2023.09.27-03.55.21:251][473]LogBlueprintUserMessages: [CollectableCoins_C_UAID_D45D64B670AFB4AC01_1228442478] 5
+[2023.09.27-03.55.21:747][488]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 4
+[2023.09.27-03.55.22:155][500]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2023.09.27-03.55.22:323][505]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2023.09.27-03.55.22:458][509]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2023.09.27-03.55.22:459][509]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2023.09.27-03.55.22:528][511]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.55.22:629][514]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2023.09.27-03.55.22:629][514]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2023.09.27-03.55.22:728][517]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2023.09.27-03.55.22:861][521]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2023.09.27-03.55.22:861][521]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.22:958][524]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:081][528]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:081][528]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:176][531]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:301][535]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:301][535]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:394][538]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:519][542]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:519][542]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:613][545]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:738][549]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:738][549]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:766][550]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: -9
+[2023.09.27-03.55.23:830][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:954][556]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.23:954][556]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:049][559]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:175][563]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:175][563]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:268][566]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:392][570]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:392][570]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:486][573]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:611][577]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:611][577]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:705][580]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:828][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:828][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.24:922][587]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.24:922][587]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.24:922][587]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.24:922][587]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.55.24:922][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.24:922][587]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.55.25:020][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.55.25:025][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.09.27-03.55.25:027][587]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.25:033][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005535s)
+[2023.09.27-03.55.25:033][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005585s)
+[2023.09.27-03.55.25:033][587]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.55.25:033][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.55.25:033][587]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.55.25:034][587]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.55.25:034][587]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.55.25:034][587]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.55.25:035][587]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.55.25:036][587]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 852 ms)
+[2023.09.27-03.55.25:036][587]LogPlayLevel: PIE: World Init took: (0.002696s)
+[2023.09.27-03.55.25:036][587]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.55.25:037][587]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.55.25
+[2023.09.27-03.55.25:038][587]LogWorld: Bringing up level for play took: 0.001872
+[2023.09.27-03.55.25:041][587]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.25:041][587]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.55.25:041][587]LogLoad: Took 0.119711 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.55.26:897][646]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.28:898][707]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.30:383][752]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2023.09.27-03.55.30:553][757]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2023.09.27-03.55.30:690][761]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2023.09.27-03.55.30:690][761]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2023.09.27-03.55.30:759][763]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.55.30:862][766]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2023.09.27-03.55.30:862][766]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2023.09.27-03.55.30:929][768]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.30:961][769]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2023.09.27-03.55.31:095][773]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2023.09.27-03.55.31:095][773]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:162][775]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:322][780]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:322][780]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:385][782]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:547][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:547][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:610][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:772][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:772][794]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:836][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:997][801]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.31:997][801]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:061][803]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:204][807]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:204][807]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:287][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:415][814]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:415][814]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:509][817]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:638][821]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:638][821]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:734][824]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:861][828]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:861][828]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.32:956][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: -22
+[2023.09.27-03.55.32:956][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.33:085][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.33:085][835]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.33:149][837]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.33:149][837]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.33:149][837]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.33:150][837]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.55.33:150][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.33:150][837]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.55.33:247][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.55.33:251][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.09.27-03.55.33:254][837]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.33:260][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005439s)
+[2023.09.27-03.55.33:260][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005492s)
+[2023.09.27-03.55.33:260][837]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.55.33:260][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.55.33:260][837]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.55.33:266][837]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.55.33:266][837]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.55.33:266][837]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.55.33:268][837]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.55.33:268][837]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 854 ms)
+[2023.09.27-03.55.33:268][837]LogPlayLevel: PIE: World Init took: (0.007992s)
+[2023.09.27-03.55.33:268][837]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.55.33:270][837]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.55.33
+[2023.09.27-03.55.33:270][837]LogWorld: Bringing up level for play took: 0.002107
+[2023.09.27-03.55.33:273][837]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.33:273][837]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.55.33:273][837]LogLoad: Took 0.124794 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.55.35:125][896]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.37:147][960]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.39:006][ 19]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2023.09.27-03.55.39:170][ 24]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.39:203][ 25]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2023.09.27-03.55.39:817][ 44]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2023.09.27-03.55.40:012][ 50]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2023.09.27-03.55.40:243][ 57]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.55.40:275][ 58]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2023.09.27-03.55.40:476][ 64]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2023.09.27-03.55.40:476][ 64]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2023.09.27-03.55.40:678][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2023.09.27-03.55.40:678][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.40:974][ 77]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.40:974][ 77]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:171][ 85]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 0
+[2023.09.27-03.55.41:204][ 86]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:204][ 86]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:424][ 93]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:424][ 93]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:644][100]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:644][100]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:864][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.41:864][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:087][114]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:087][114]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:309][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:309][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:527][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:527][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.42:717][134]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.42:717][134]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.42:717][134]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.42:717][134]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.55.42:717][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.42:718][134]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.55.42:828][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.55.42:833][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.09.27-03.55.42:836][134]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.42:842][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005762s)
+[2023.09.27-03.55.42:842][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005808s)
+[2023.09.27-03.55.42:842][134]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.55.42:842][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.55.42:842][134]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.55.42:842][134]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.55.42:842][134]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.55.42:842][134]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.55.42:844][134]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.55.42:844][134]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 856 ms)
+[2023.09.27-03.55.42:844][134]LogPlayLevel: PIE: World Init took: (0.002225s)
+[2023.09.27-03.55.42:844][134]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.55.42:845][134]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.55.42
+[2023.09.27-03.55.42:846][134]LogWorld: Bringing up level for play took: 0.001764
+[2023.09.27-03.55.42:849][134]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.42:849][134]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.55.42:849][134]LogLoad: Took 0.132360 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.55.44:695][194]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.46:709][256]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.48:714][319]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.49:958][358]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2023.09.27-03.55.50:126][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2023.09.27-03.55.50:328][369]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2023.09.27-03.55.50:558][376]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2023.09.27-03.55.50:726][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.50:759][382]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.55.50:989][389]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2023.09.27-03.55.51:219][396]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2023.09.27-03.55.51:445][403]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2023.09.27-03.55.51:673][410]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2023.09.27-03.55.51:902][417]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.52:127][424]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.52:348][431]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.52:571][438]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.52:730][443]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: -1
+[2023.09.27-03.55.52:793][445]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.53:015][452]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.53:237][459]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.53:459][466]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.53:684][473]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.53:907][480]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.55.53:938][481]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.53:938][481]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.55.53:938][481]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.53:939][481]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.55.53:939][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.53:939][481]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.55.54:054][481]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.55.54:059][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.09.27-03.55.54:063][481]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.54:070][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007415s)
+[2023.09.27-03.55.54:070][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007476s)
+[2023.09.27-03.55.54:070][481]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.55.54:070][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.55.54:071][481]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.55.54:071][481]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.55.54:071][481]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.55.54:071][481]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.55.54:073][481]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.55.54:073][481]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 857 ms)
+[2023.09.27-03.55.54:073][481]LogPlayLevel: PIE: World Init took: (0.002846s)
+[2023.09.27-03.55.54:073][481]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.55.54:075][481]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 3) at 2023.09.27-00.55.54
+[2023.09.27-03.55.54:076][481]LogWorld: Bringing up level for play took: 0.002352
+[2023.09.27-03.55.54:080][481]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.54:080][481]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.55.54:080][481]LogLoad: Took 0.142891 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.55.56:139][515]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.55.56:510][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-03.55.56:511][516]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.55.56:511][516]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.55.56:511][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.56:511][516]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.55.56:515][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-03.55.56:525][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.55.56:624][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-03.55.56:624][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.27-03.55.56:626][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.27-03.55.56:637][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2023.09.27-03.55.56:675][517]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.27-03.57.38:122][956]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.09.27-03.57.38:299][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.09.27-03.57.39:489][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-03.57.39:675][967]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ThirdPersonCharacter
+[2023.09.27-03.57.39:676][967]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/BP_ThirdPersonCharacter95482BF14E047A143D55B7814C1005E0.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.27-03.57.39:684][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 3.55 sec)
+[2023.09.27-03.57.39:695][967]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.27-03.57.39:695][967]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.27-03.57.43:296][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-03.57.43:302][ 70]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.09.27-03.57.43:304][ 70]LogWorldPartition: Display: GenerateStreaming started...
+[2023.09.27-03.57.43:304][ 70]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.09.27-03.57.43:304][ 70]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 951 us)
+[2023.09.27-03.57.43:304][ 70]LogWorldPartition: Display: GenerateStreaming took 308 us (total: 4 ms)
+[2023.09.27-03.57.43:304][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-03.57.43:305][ 70]PIE: New page: PIE session: ThirdPersonMap (Sep 26, 2023, 9:57:43 PM)
+[2023.09.27-03.57.43:305][ 70]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.57.43:311][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006068s)
+[2023.09.27-03.57.43:311][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006102s)
+[2023.09.27-03.57.43:311][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.57.43:311][ 70]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.57.43:312][ 70]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.57.43:312][ 70]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.57.43:312][ 70]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.57.43:313][ 70]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.57.43:313][ 70]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 859 ms)
+[2023.09.27-03.57.43:313][ 70]LogPlayLevel: PIE: World Init took: (0.002396s)
+[2023.09.27-03.57.43:412][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.09.27-03.57.43:415][ 70]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.27-03.57.43:415][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.27-03.57.43:415][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-03.57.43:415][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-03.57.43:415][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-03.57.43:415][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-03.57.43:417][ 70]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-03.57.43:441][ 70]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek High Definition Audio)
+[2023.09.27-03.57.43:442][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-03.57.43:442][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-03.57.43:442][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-03.57.43:443][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.09.27-03.57.43:443][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.09.27-03.57.43:445][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.09.27-03.57.43:445][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.09.27-03.57.43:445][ 70]LogInit: FAudioDevice initialized.
+[2023.09.27-03.57.43:445][ 70]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.57.43:447][ 70]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.57.43:449][ 70]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.57.43
+[2023.09.27-03.57.43:450][ 70]LogWorld: Bringing up level for play took: 0.002356
+[2023.09.27-03.57.43:451][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.09.27-03.57.43:454][ 70]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.57.43:455][ 70]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.43:455][ 70]PIE: Server logged in
+[2023.09.27-03.57.43:456][ 70]PIE: Play in editor total start time 0.154 seconds.
+[2023.09.27-03.57.45:450][ 92]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.47:455][124]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.49:490][157]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.51:396][213]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2023.09.27-03.57.51:461][215]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2023.09.27-03.57.51:495][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.51:596][219]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2023.09.27-03.57.51:630][220]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2023.09.27-03.57.51:827][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.57.51:860][227]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2023.09.27-03.57.52:055][233]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2023.09.27-03.57.52:087][234]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2023.09.27-03.57.52:281][240]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2023.09.27-03.57.52:314][241]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.52:506][247]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.52:536][248]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.52:724][254]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.52:756][255]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.52:943][261]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.52:975][262]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:164][268]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:196][269]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:385][275]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:417][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:510][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 2
+[2023.09.27-03.57.53:606][282]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:637][283]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:826][289]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.53:858][290]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.54:045][296]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.54:077][297]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.54:267][303]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.54:298][304]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.57.54:361][306]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.57.54:361][306]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.57.54:361][306]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.57.54:361][306]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.57.54:362][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.57.54:362][306]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.57.54:461][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.57.54:466][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.09.27-03.57.54:470][306]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.57.54:476][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005514s)
+[2023.09.27-03.57.54:476][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005570s)
+[2023.09.27-03.57.54:476][306]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.57.54:476][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.57.54:476][306]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.57.54:476][306]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.57.54:476][306]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.57.54:476][306]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.57.54:478][306]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.57.54:478][306]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 860 ms)
+[2023.09.27-03.57.54:478][306]LogPlayLevel: PIE: World Init took: (0.002127s)
+[2023.09.27-03.57.54:478][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.57.54:479][306]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.57.54
+[2023.09.27-03.57.54:480][306]LogWorld: Bringing up level for play took: 0.001715
+[2023.09.27-03.57.54:483][306]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.54:483][306]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.57.54:483][306]LogLoad: Took 0.122910 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.57.56:339][362]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.58:344][424]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.57.59:816][470]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2023.09.27-03.58.00:127][480]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.58.00:345][487]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.00:408][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2023.09.27-03.58.00:878][504]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.58.02:345][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 2
+[2023.09.27-03.58.02:896][570]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.58.02:896][570]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.58.02:896][570]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.58.02:896][570]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.58.02:896][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.58.02:896][570]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.58.02:994][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.58.02:998][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.09.27-03.58.03:001][570]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.58.03:007][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005833s)
+[2023.09.27-03.58.03:007][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005886s)
+[2023.09.27-03.58.03:007][570]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.58.03:007][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.58.03:007][570]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.58.03:008][570]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.58.03:008][570]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.58.03:008][570]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.58.03:009][570]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.58.03:009][570]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 861 ms)
+[2023.09.27-03.58.03:009][570]LogPlayLevel: PIE: World Init took: (0.002214s)
+[2023.09.27-03.58.03:009][570]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.58.03:011][570]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.09.27-00.58.03
+[2023.09.27-03.58.03:011][570]LogWorld: Bringing up level for play took: 0.001744
+[2023.09.27-03.58.03:015][570]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.03:015][570]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.58.03:015][570]LogLoad: Took 0.118828 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.58.03:862][598]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2023.09.27-03.58.04:049][604]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2023.09.27-03.58.04:239][610]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2023.09.27-03.58.04:431][616]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] You have died
+[2023.09.27-03.58.04:893][631]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 2
+[2023.09.27-03.58.06:940][651]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.58.06:940][651]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.09.27-03.58.06:940][651]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.58.06:940][651]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.58.06:940][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.58.06:940][651]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.58.07:044][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.58.07:049][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.09.27-03.58.07:052][651]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.58.07:058][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005890s)
+[2023.09.27-03.58.07:058][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005932s)
+[2023.09.27-03.58.07:058][651]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2023.09.27-03.58.07:058][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-03.58.07:058][651]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.27-03.58.07:059][651]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.27-03.58.07:059][651]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.27-03.58.07:059][651]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.27-03.58.07:060][651]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.09.27-03.58.07:060][651]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 863 ms)
+[2023.09.27-03.58.07:060][651]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2023.09.27-03.58.07:060][651]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.09.27-03.58.07:062][651]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 3) at 2023.09.27-00.58.07
+[2023.09.27-03.58.07:062][651]LogWorld: Bringing up level for play took: 0.001765
+[2023.09.27-03.58.07:066][651]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.07:066][651]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.09.27-03.58.07:066][651]LogLoad: Took 0.126286 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2023.09.27-03.58.08:607][656]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.10:607][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.12:607][668]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.14:608][674]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Currents lives: 3
+[2023.09.27-03.58.15:761][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-03.58.15:761][689]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.09.27-03.58.15:761][689]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-03.58.15:762][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.58.15:762][689]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.09.27-03.58.15:766][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-03.58.15:777][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-03.58.15:879][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-03.58.15:879][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.27-03.58.15:880][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.27-03.58.15:884][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-03.58.15:891][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2023.09.27-03.58.15:927][690]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.09.27-03.58.54:778][318]LogEditorTransaction: Undo Move Nodes
