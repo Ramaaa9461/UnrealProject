@@ -7,10 +7,7 @@
 			"files": [
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Coin_Mat.uasset",
-				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Characters/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Characters/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/CollectableCoins.uasset",
@@ -38,7 +35,14 @@
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Spike/Material.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Pirate_Coin.uasset",
 				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Pirate_Coin_default_color.uasset",
-				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Pirate_Coin_normals-.uasset"
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Coin/Pirate_Coin_normals-.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/CoinsWidget.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/UIWidget.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Models/Heart/Heart_Mat.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Blueprints/BP_Live.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/Characters/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
