@@ -1203,3 +1203,11 @@ Continue: Skip saving this asset only.
 [2023.10.02-21.50.51:754][597]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
 [2023.10.02-21.50.53:986][667]LogSlate: Window 'Message Log' being destroyed
 [2023.10.02-21.50.53:991][667]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-21.53.30:346][340]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2023.10.02-21.53.43:564][537]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.10.02-21.53.46:301][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-21.53.46:387][636]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO
+[2023.10.02-21.53.46:387][636]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/NB37RT5Q32Z8MJWD8BD2SO1B41B8CC42488B569C92CCA9751AC2A6.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2023.10.02-21.53.46:394][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1:01 min)
+[2023.10.02-21.53.46:400][636]AssetCheck: New page: Asset Save: TextRenderActor_1
+[2023.10.02-21.53.46:400][636]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
