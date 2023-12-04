@@ -5565,3 +5565,780 @@ Script Stack (0 frames) :
 [2023.12.03-23.48.20:250][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.03-23.48.20:256][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
 [2023.12.03-23.48.20:302][544]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.12.04-00.00.02:483][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.12.04-00.00.04:438][405]LogSlate: Window 'Save Content' being destroyed
+[2023.12.04-00.00.04:452][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-00.00.04:517][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/MA/YM0O6V2VNHWSC96DWF71KD
+[2023.12.04-00.00.04:517][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/YM0O6V2VNHWSC96DWF71KD2AFE6A494E9AD532256C6B92797E90F4.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/MA/YM0O6V2VNHWSC96DWF71KD.uasset'
+[2023.12.04-00.00.04:560][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/72/NPPPQJTH00ELGOADA8NJ0J
+[2023.12.04-00.00.04:560][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/NPPPQJTH00ELGOADA8NJ0JA9D490784370C3C2F4F055BEB84B6E5D.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/72/NPPPQJTH00ELGOADA8NJ0J.uasset'
+[2023.12.04-00.00.04:576][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0J/3C0BU6TCA71874U5BLPDHY
+[2023.12.04-00.00.04:576][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/3C0BU6TCA71874U5BLPDHY49107DE945941065502D1FA20EA59FCF.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0J/3C0BU6TCA71874U5BLPDHY.uasset'
+[2023.12.04-00.00.04:578][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/J5/6FX1WMKKCPEZIBDU7B39R5
+[2023.12.04-00.00.04:578][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/6FX1WMKKCPEZIBDU7B39R5945E5697419C40C4265801A9CE91AD74.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/J5/6FX1WMKKCPEZIBDU7B39R5.uasset'
+[2023.12.04-00.00.04:580][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KD/YRG6LS3B5RZA0350KX0BJ4
+[2023.12.04-00.00.04:580][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/YRG6LS3B5RZA0350KX0BJ42EB03B544BAE8A9915C1C2B07DC6D7B9.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KD/YRG6LS3B5RZA0350KX0BJ4.uasset'
+[2023.12.04-00.00.04:582][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1I/C9QJNAQ1B6U8PJVEDVL044
+[2023.12.04-00.00.04:582][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/C9QJNAQ1B6U8PJVEDVL044262441434C87B3D59C3FEEA26D659BBA.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/1I/C9QJNAQ1B6U8PJVEDVL044.uasset'
+[2023.12.04-00.00.04:584][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F9/ZL35YKIZTMO1Z5EIST5KG4
+[2023.12.04-00.00.04:585][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/ZL35YKIZTMO1Z5EIST5KG4364FA0C349202C9FBADC4E96E98738F8.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F9/ZL35YKIZTMO1Z5EIST5KG4.uasset'
+[2023.12.04-00.00.04:587][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0G/GMSBQB7ZJEXDGEANE7CVQ2
+[2023.12.04-00.00.04:587][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/GMSBQB7ZJEXDGEANE7CVQ28E0C552245FC980D3AD60A8311102C91.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0G/GMSBQB7ZJEXDGEANE7CVQ2.uasset'
+[2023.12.04-00.00.04:589][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NG/MLQKC5M34VVUY7QUM8F705
+[2023.12.04-00.00.04:589][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/MLQKC5M34VVUY7QUM8F705122B0493427822582C4883AA7FF20780.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NG/MLQKC5M34VVUY7QUM8F705.uasset'
+[2023.12.04-00.00.04:592][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SL/XMWG0O6W15NFCQ2VCYMVNV
+[2023.12.04-00.00.04:592][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/XMWG0O6W15NFCQ2VCYMVNV3AC63A37442320644A8918A009C08B10.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SL/XMWG0O6W15NFCQ2VCYMVNV.uasset'
+[2023.12.04-00.00.04:594][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/90/RG8GOS60AR9CG5DCLWBS25
+[2023.12.04-00.00.04:594][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/RG8GOS60AR9CG5DCLWBS252B49E7F143E2380A99406C905B487470.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/90/RG8GOS60AR9CG5DCLWBS25.uasset'
+[2023.12.04-00.00.04:597][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4Q/2J7TF1JJNFSYHQ2XC5695P
+[2023.12.04-00.00.04:597][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/2J7TF1JJNFSYHQ2XC5695PF1CF398045E760A88E2B70AE2A305FFF.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4Q/2J7TF1JJNFSYHQ2XC5695P.uasset'
+[2023.12.04-00.00.04:600][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G8/5Q98W764ZDJDIW81SOMLH2
+[2023.12.04-00.00.04:600][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/5Q98W764ZDJDIW81SOMLH20B4255234520092D9FDF78923AABB892.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G8/5Q98W764ZDJDIW81SOMLH2.uasset'
+[2023.12.04-00.00.04:602][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XS/EFKDOVKN0FU5LQD1D2MCFT
+[2023.12.04-00.00.04:602][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/EFKDOVKN0FU5LQD1D2MCFTDAEEE64B48F240D99E9A198BCB26C2E6.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XS/EFKDOVKN0FU5LQD1D2MCFT.uasset'
+[2023.12.04-00.00.04:605][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R2/5OR3SIB188HGN8ZHNKBOHQ
+[2023.12.04-00.00.04:605][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/5OR3SIB188HGN8ZHNKBOHQAAE93CE747217813F6CABAA08A232EDF.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/R2/5OR3SIB188HGN8ZHNKBOHQ.uasset'
+[2023.12.04-00.00.04:608][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HD/84FX74UU3B1416QXGU9D3P
+[2023.12.04-00.00.04:608][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/84FX74UU3B1416QXGU9D3P2377F8DC460FCC586487FF8E0440B29C.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HD/84FX74UU3B1416QXGU9D3P.uasset'
+[2023.12.04-00.00.04:611][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W4/VG3YKOTJI5YAM2YOT3L2AZ
+[2023.12.04-00.00.04:611][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/VG3YKOTJI5YAM2YOT3L2AZ425EA1034833AE90893F7AA1B638046D.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W4/VG3YKOTJI5YAM2YOT3L2AZ.uasset'
+[2023.12.04-00.00.04:613][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7J/6UR2I7B7H7NS8T0S7KPDZA
+[2023.12.04-00.00.04:613][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/6UR2I7B7H7NS8T0S7KPDZAABC9587B42ABE977233A818FF3484EFF.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7J/6UR2I7B7H7NS8T0S7KPDZA.uasset'
+[2023.12.04-00.00.04:615][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YW/DAX8RDD6RJC9H6XL0LAJY7
+[2023.12.04-00.00.04:615][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/DAX8RDD6RJC9H6XL0LAJY71447309A4F15F7DB098D5FA0BF0F66F8.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/YW/DAX8RDD6RJC9H6XL0LAJY7.uasset'
+[2023.12.04-00.00.04:618][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YC/YKJMNZPJDQLWC76SPDF9PS
+[2023.12.04-00.00.04:618][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/YKJMNZPJDQLWC76SPDF9PS46F30A304848BB121206CAB629220660.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YC/YKJMNZPJDQLWC76SPDF9PS.uasset'
+[2023.12.04-00.00.04:619][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CM/P4PDQE3RQ1KDUIHT6JQCUA
+[2023.12.04-00.00.04:620][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/P4PDQE3RQ1KDUIHT6JQCUA91BD6A664116CF5A528E53A2C0169C0E.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CM/P4PDQE3RQ1KDUIHT6JQCUA.uasset'
+[2023.12.04-00.00.04:622][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/UIEXOB1FTFZRSLX16BUX6E
+[2023.12.04-00.00.04:622][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/UIEXOB1FTFZRSLX16BUX6ED70EF8544E6BF1E00EFF3C89B603F064.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/UIEXOB1FTFZRSLX16BUX6E.uasset'
+[2023.12.04-00.00.04:624][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PZ/9T6HL4C4HZBKWJOGWGBPZM
+[2023.12.04-00.00.04:625][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/9T6HL4C4HZBKWJOGWGBPZMD9FA352D4B66082062BB14AF795767F9.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PZ/9T6HL4C4HZBKWJOGWGBPZM.uasset'
+[2023.12.04-00.00.04:627][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1Q/9GCHGKE9ROW33213HJFYD1
+[2023.12.04-00.00.04:627][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/9GCHGKE9ROW33213HJFYD1A80D1B6944AE3DE294BF5CB2B1329890.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1Q/9GCHGKE9ROW33213HJFYD1.uasset'
+[2023.12.04-00.00.04:630][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/2O/Q6KD6TH21F5GVL9JMIRG7J
+[2023.12.04-00.00.04:630][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Q6KD6TH21F5GVL9JMIRG7J7BDC2B044CB1ACBC09184FA69DCD2598.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/2O/Q6KD6TH21F5GVL9JMIRG7J.uasset'
+[2023.12.04-00.00.04:632][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TT/LVPM6FRCW53BI2C4GJ3XQX
+[2023.12.04-00.00.04:632][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/LVPM6FRCW53BI2C4GJ3XQX8967BDDF4341D897BC51CEB53BC47F9F.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TT/LVPM6FRCW53BI2C4GJ3XQX.uasset'
+[2023.12.04-00.00.04:634][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LG/XVZFSLUTBH5W4JF2TGQ8QA
+[2023.12.04-00.00.04:635][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/XVZFSLUTBH5W4JF2TGQ8QAE0FB74C74BB29B4A8339A68E6051447D.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LG/XVZFSLUTBH5W4JF2TGQ8QA.uasset'
+[2023.12.04-00.00.04:637][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CC/K5U1F22FR0X0V155GQ6WNW
+[2023.12.04-00.00.04:637][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/K5U1F22FR0X0V155GQ6WNWCED694B84E0122A3245F468813A3B8C9.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CC/K5U1F22FR0X0V155GQ6WNW.uasset'
+[2023.12.04-00.00.04:639][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/59/T6MNDPVTF6JAHLKW5JU972
+[2023.12.04-00.00.04:640][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/T6MNDPVTF6JAHLKW5JU97240E6BFCD46EA663ED4EE13A6580E6646.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/59/T6MNDPVTF6JAHLKW5JU972.uasset'
+[2023.12.04-00.00.04:642][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LT/HHY9KIR6S3ANFUDR0IT3ER
+[2023.12.04-00.00.04:643][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/HHY9KIR6S3ANFUDR0IT3ER711B38124D1738A20A2C06A94A26B340.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LT/HHY9KIR6S3ANFUDR0IT3ER.uasset'
+[2023.12.04-00.00.04:645][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/K0/S75SF02X5FCURNSMYH56DP
+[2023.12.04-00.00.04:645][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/S75SF02X5FCURNSMYH56DP28B2211A4DD3299EA2743581EDB7198C.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/K0/S75SF02X5FCURNSMYH56DP.uasset'
+[2023.12.04-00.00.04:647][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5J/L52GRSI7U3G0MANKG3QNY1
+[2023.12.04-00.00.04:648][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/L52GRSI7U3G0MANKG3QNY1865E72394A4D4A753246B9A912E30EEC.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5J/L52GRSI7U3G0MANKG3QNY1.uasset'
+[2023.12.04-00.00.04:650][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/94/6LRNUW55NXJOJY53H69ETK
+[2023.12.04-00.00.04:650][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/6LRNUW55NXJOJY53H69ETKDA3F111344F65D830F3A019A626E2153.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/94/6LRNUW55NXJOJY53H69ETK.uasset'
+[2023.12.04-00.00.04:652][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/63/TYBFUP17NUB8WFYNZIFLSV
+[2023.12.04-00.00.04:652][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/TYBFUP17NUB8WFYNZIFLSV602EB6FD4770EBFB0FFACF8F42618903.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/63/TYBFUP17NUB8WFYNZIFLSV.uasset'
+[2023.12.04-00.00.04:654][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZT/I9Q6B28CWH3795Y45FQBHF
+[2023.12.04-00.00.04:654][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/I9Q6B28CWH3795Y45FQBHFA09B6ED14A6FE06F02CE72988B22BCCF.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZT/I9Q6B28CWH3795Y45FQBHF.uasset'
+[2023.12.04-00.00.04:656][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/H1/Y0FB0PRCT41999RRAGXWH0
+[2023.12.04-00.00.04:656][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Y0FB0PRCT41999RRAGXWH0BA93B47D4EF2B02F490455B9D2110D56.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/H1/Y0FB0PRCT41999RRAGXWH0.uasset'
+[2023.12.04-00.00.04:659][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/5K/51YLZFYQB649XOIHUQXVTR
+[2023.12.04-00.00.04:659][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/51YLZFYQB649XOIHUQXVTR1691D6BE4B1BE7159058078AC286CBCA.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/5K/51YLZFYQB649XOIHUQXVTR.uasset'
+[2023.12.04-00.00.04:662][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EG/8UASZ34OPUF0BU97N7S8NN
+[2023.12.04-00.00.04:662][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/8UASZ34OPUF0BU97N7S8NNC4E2C1EF4C369DE03EA3A5AF1D7232A3.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/EG/8UASZ34OPUF0BU97N7S8NN.uasset'
+[2023.12.04-00.00.04:664][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TI/9L7X64M0UOAVFJIUC8GUJY
+[2023.12.04-00.00.04:664][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/9L7X64M0UOAVFJIUC8GUJYDDB9F2EE44DB4D9A2778208FCE0B3FEA.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TI/9L7X64M0UOAVFJIUC8GUJY.uasset'
+[2023.12.04-00.00.04:666][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/1N/LK5AM457H3ZSKCXRO2ALSL
+[2023.12.04-00.00.04:666][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/LK5AM457H3ZSKCXRO2ALSLBE91806242B3C453647A29B500E00717.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/1N/LK5AM457H3ZSKCXRO2ALSL.uasset'
+[2023.12.04-00.00.04:668][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/EG/VEZ5ZU7P7GXN8DFJNMNVQF
+[2023.12.04-00.00.04:669][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/VEZ5ZU7P7GXN8DFJNMNVQFCB25792E4702A97C02E7138032C8645E.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/EG/VEZ5ZU7P7GXN8DFJNMNVQF.uasset'
+[2023.12.04-00.00.04:671][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6G/97Y0AQVUZIYUDLLP661GP3
+[2023.12.04-00.00.04:671][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/97Y0AQVUZIYUDLLP661GP373F3A98D450DF0DDF1A4748E9329B52E.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/6G/97Y0AQVUZIYUDLLP661GP3.uasset'
+[2023.12.04-00.00.04:673][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MA/5KPKTRJVO2D0EQE7TBLXTO
+[2023.12.04-00.00.04:673][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/5KPKTRJVO2D0EQE7TBLXTOCEC5B64B47A7DCD6ED7448A469A30DEA.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MA/5KPKTRJVO2D0EQE7TBLXTO.uasset'
+[2023.12.04-00.00.04:675][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KA/5PX4N3WWV008GTX92B7XCH
+[2023.12.04-00.00.04:675][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/5PX4N3WWV008GTX92B7XCH43417E074A5B02B628549080EB475279.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KA/5PX4N3WWV008GTX92B7XCH.uasset'
+[2023.12.04-00.00.04:678][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/0OVOS52NZTJ1J14UXHNX7M
+[2023.12.04-00.00.04:678][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/0OVOS52NZTJ1J14UXHNX7M78163E034C453E831EF46280753B6732.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/0OVOS52NZTJ1J14UXHNX7M.uasset'
+[2023.12.04-00.00.04:680][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F
+[2023.12.04-00.00.04:680][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/CQR16QFDKKEYP53M51TV4FFCCAF57248088C80F41DE9914CD0D11D.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset'
+[2023.12.04-00.00.04:682][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/73/LUDM998BYO9MD1FTZUWWTU
+[2023.12.04-00.00.04:682][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/LUDM998BYO9MD1FTZUWWTU8CC1A4DD44A8A24AFD63CF8E7EE2E334.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/73/LUDM998BYO9MD1FTZUWWTU.uasset'
+[2023.12.04-00.00.04:683][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PF/BEW3K62G2XJHDXVGT39MEQ
+[2023.12.04-00.00.04:683][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/BEW3K62G2XJHDXVGT39MEQ3DC6E65342C97DF506C783BB9F08CAC9.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PF/BEW3K62G2XJHDXVGT39MEQ.uasset'
+[2023.12.04-00.00.04:685][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2023.12.04-00.00.04:685][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/Q7Y1URWWFS0TXGWUTO3S61F87844A24D56142E6B006B9683AD31D1.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2023.12.04-00.00.04:687][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR
+[2023.12.04-00.00.04:687][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/NMHOKL5LGQDOAAG00FUMZR6E8A1EFC435DB4FC4BF3059B7969A29E.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset'
+[2023.12.04-00.00.04:689][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1
+[2023.12.04-00.00.04:689][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/C9C8NKPQ680JETAE5ROTT19CC7CF8F4244D656E422D49AE3EE3F26.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset'
+[2023.12.04-00.00.04:723][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KF/K1MIYL9QFHIIETBWKN6SK6
+[2023.12.04-00.00.04:723][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/K1MIYL9QFHIIETBWKN6SK6FB3DD4694DEEF12C450AD1A940F264BE.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KF/K1MIYL9QFHIIETBWKN6SK6.uasset'
+[2023.12.04-00.00.04:726][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06
+[2023.12.04-00.00.04:726][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/CO9MG7REJF8N8AQFYRCI0624DDA01D40CECBF1A17CC9AF47B09BF3.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset'
+[2023.12.04-00.00.04:735][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN
+[2023.12.04-00.00.04:735][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/8RB55FM1HBEUVO4IOQC4YN43E4F82F48F9E049222CE09D591AFC32.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset'
+[2023.12.04-00.00.04:737][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO
+[2023.12.04-00.00.04:737][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/9VVR39MG0K7W5GQIEFE7SOD292619B4DCD06650D188B82FF5E2BA7.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset'
+[2023.12.04-00.00.04:739][405]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DU/FP2OTLROLM5VAHUOBBE8KL
+[2023.12.04-00.00.04:739][405]LogSavePackage: Moving 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Saved/FP2OTLROLM5VAHUOBBE8KL87C718AE495507A53C7529B742F76A9F.tmp' to 'D:/Users/DEDSComputacion/Desktop/Unreal/UnrealProject/UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DU/FP2OTLROLM5VAHUOBBE8KL.uasset'
+[2023.12.04-00.00.04:748][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 3.35 sec)
+[2023.12.04-00.00.04:748][405]LogStall: Shutdown...
+[2023.12.04-00.00.04:751][405]LogStall: Shutdown complete.
+[2023.12.04-00.00.04:898][405]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.04:898][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-00.00.04:908][405]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.04:908][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-00.00.05:047][405]LogSlate: Window 'BP_MovingPlatform' being destroyed
+[2023.12.04-00.00.05:065][405]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.05:065][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-00.00.05:220][405]LogSlate: Window 'UnrealProject - Unreal Editor' being destroyed
+[2023.12.04-00.00.05:407][405]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1918633976
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1918632975
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1918630974
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_21
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_25
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_19
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_18
+[2023.12.04-00.00.05:407][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1791305592
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1788345591
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1695714582
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5FC201_1409589788
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5FC201_1326331787
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5FC201_1238055786
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5FC201_1210867785
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5FC201_1089088784
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5EC201_2015842607
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5DC201_1727204392
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_MovingPlatform.BP_MovingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_MovingPlatform_C_UAID_D45D64B670AF5DC201_1306151391
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1841796603
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1841795602
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1841794601
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1841793600
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1841790598
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1841789597
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Live.BP_Live_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Live_C_UAID_D45D64B670AF5EC201_1798857593
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1664070579
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1659955578
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1908317970
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1896786967
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1776921590
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1893534966
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1893334965
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1773950589
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1908316969
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D45D64B670AF5EC201_1134044575
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D45D64B670AF5EC201_1134043574
+[2023.12.04-00.00.05:408][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D45D64B670AF5EC201_1134042573
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1916881973
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1771079588
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1916878972
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1916876971
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1684402580
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1762987587
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF60C201_1908314968
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1760346586
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1757983585
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1750487584
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1904358605
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/CollectableCoins.CollectableCoins_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CollectableCoins_C_UAID_D45D64B670AF5EC201_1904356604
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Checkpoint.BP_Checkpoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Checkpoint_C_UAID_D45D64B670AF61C201_1445613156
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Checkpoint.BP_Checkpoint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Checkpoint_C_UAID_D45D64B670AF61C201_1272142155
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Game/Blueprints/BP_Spikes.BP_Spikes_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Spikes_C_UAID_D45D64B670AF5EC201_1705190583
+[2023.12.04-00.00.05:409][405]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D45D64B670AF5EC201_1541824576
+[2023.12.04-00.00.05:411][406]Cmd: QUIT_EDITOR
+[2023.12.04-00.00.05:411][406]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.12.04-00.00.05:420][406]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.12.04-00.00.05:420][406]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.12.04-00.00.05:421][406]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.12.04-00.00.05:426][406]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.05:427][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-00.00.05:428][406]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.12.04-00.00.05:434][406]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.12.04-00.00.05:438][406]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.12.04-00.00.06:051][406]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.12.04-00.00.06:051][406]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.12.04-00.00.06:051][406]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.12.04-00.00.06:052][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.12.04-00.00.06:054][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.12.04-00.00.06:064][406]LogAudio: Display: Audio Device Manager Shutdown
+[2023.12.04-00.00.06:068][406]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.12.04-00.00.06:076][406]LogExit: Preparing to exit.
+[2023.12.04-00.00.06:195][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.12.04-00.00.06:212][406]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:212][406]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:214][406]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:215][406]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.12.04-00.00.06:695][406]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:698][406]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:702][406]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:706][406]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:710][406]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:714][406]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:718][406]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:721][406]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:725][406]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:729][406]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:733][406]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:737][406]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:742][406]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:746][406]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:750][406]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-00.00.06:868][406]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.12.04-00.00.06:916][406]LogExit: Editor shut down
+[2023.12.04-00.00.06:921][406]LogExit: Transaction tracking system shut down
+[2023.12.04-00.00.07:703][406]LogExit: Object subsystem successfully closed.
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: ================================================
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Total job queries 696, among them cache hits 67 (9.63%)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Tracking 629 distinct input hashes that result in 394 distinct outputs (62.64%)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: RAM used: 4.81 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.59%
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Shaders Compiled: 510
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Jobs assigned 510, completed 510 (100.00%)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Average time worker was idle: 96.25 s
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Time job spent in pending queue: average 16.85 s, longest 47.33 s
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Job execution time: average 2.03 s, max 13.14 s
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Job life time (pending + execution): average 18.88 s, max 49.16
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 80.59 s
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Jobs were issued in 452 batches (only local compilation was used), average 1.13 jobs/batch
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Average processing rate: 6.33 jobs/sec
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Total thread time: 470.26 s
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Total thread preprocess time: 24.57 s
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Percentage time preprocessing: 5.23%
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Effective parallelization: 5.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.85 sec, max 2.75 sec, min 1.07 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 1.78 sec, max 2.69 sec, min 0.97 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.77 sec, max 2.32 sec, min 1.10 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyLQ (compiled    4 times, average 1.75 sec, max 2.59 sec, min 0.91 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 1.70 sec, max 2.75 sec, min 0.93 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 10.63% of total time (compiled   48 times, average 1.04 sec, max 2.56 sec, min 0.89 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 9.92% of total time (compiled   46 times, average 1.01 sec, max 2.57 sec, min 0.86 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.89% of total time (compiled   45 times, average 1.03 sec, max 2.21 sec, min 0.61 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.42% of total time (compiled   60 times, average 0.74 sec, max 1.23 sec, min 0.53 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 9.09% of total time (compiled   50 times, average 0.86 sec, max 1.31 sec, min 0.70 sec)
+[2023.12.04-00.00.07:714][406]LogShaderCompilers: Display: ================================================
+[2023.12.04-00.00.07:716][406]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.12.04-00.00.07:748][406]LogVirtualization: UE::Virtualization was shutdown
+[2023.12.04-00.00.07:925][406]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (999)
+[2023.12.04-00.00.07:926][406]LogModuleManager: Shutting down and abandoning module SequencerWidgets (995)
+[2023.12.04-00.00.07:926][406]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2023.12.04-00.00.07:926][406]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (991)
+[2023.12.04-00.00.07:926][406]LogModuleManager: Shutting down and abandoning module Voice (989)
+[2023.12.04-00.00.07:926][406]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2023.12.04-00.00.07:927][406]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2023.12.04-00.00.07:927][406]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.12.04-00.00.07:927][406]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.12.04-00.00.07:927][406]LogModuleManager: Shutting down and abandoning module AddContentDialog (979)
+[2023.12.04-00.00.07:930][406]LogModuleManager: Shutting down and abandoning module WidgetCarousel (978)
+[2023.12.04-00.00.07:930][406]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2023.12.04-00.00.07:930][406]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2023.12.04-00.00.07:930][406]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2023.12.04-00.00.07:931][406]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2023.12.04-00.00.07:931][406]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2023.12.04-00.00.07:931][406]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (965)
+[2023.12.04-00.00.07:931][406]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (963)
+[2023.12.04-00.00.07:934][406]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (961)
+[2023.12.04-00.00.07:935][406]LogModuleManager: Shutting down and abandoning module TextureAlignMode (959)
+[2023.12.04-00.00.07:935][406]LogModuleManager: Shutting down and abandoning module BspMode (957)
+[2023.12.04-00.00.07:935][406]LogModuleManager: Shutting down and abandoning module GeometryMode (955)
+[2023.12.04-00.00.07:937][406]LogModuleManager: Shutting down and abandoning module PlanarCut (953)
+[2023.12.04-00.00.07:937][406]LogModuleManager: Shutting down and abandoning module CharacterAI (951)
+[2023.12.04-00.00.07:938][406]LogModuleManager: Shutting down and abandoning module IKRigEditor (949)
+[2023.12.04-00.00.07:940][406]LogModuleManager: Shutting down and abandoning module ControlRigEditor (947)
+[2023.12.04-00.00.07:946][406]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (945)
+[2023.12.04-00.00.07:946][406]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (943)
+[2023.12.04-00.00.07:946][406]LogModuleManager: Shutting down and abandoning module WebMMedia (941)
+[2023.12.04-00.00.07:946][406]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (939)
+[2023.12.04-00.00.07:946][406]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (937)
+[2023.12.04-00.00.07:946][406]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (935)
+[2023.12.04-00.00.07:947][406]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (933)
+[2023.12.04-00.00.07:948][406]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (931)
+[2023.12.04-00.00.07:949][406]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (929)
+[2023.12.04-00.00.07:949][406]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (927)
+[2023.12.04-00.00.07:950][406]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (925)
+[2023.12.04-00.00.07:950][406]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (923)
+[2023.12.04-00.00.07:950][406]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (921)
+[2023.12.04-00.00.07:950][406]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (919)
+[2023.12.04-00.00.07:950][406]LogModuleManager: Shutting down and abandoning module WaveTableEditor (917)
+[2023.12.04-00.00.07:951][406]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (915)
+[2023.12.04-00.00.07:951][406]LogModuleManager: Shutting down and abandoning module GooglePADEditor (913)
+[2023.12.04-00.00.07:951][406]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (911)
+[2023.12.04-00.00.07:951][406]LogModuleManager: Shutting down and abandoning module SequenceRecorder (910)
+[2023.12.04-00.00.07:952][406]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (907)
+[2023.12.04-00.00.07:952][406]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (905)
+[2023.12.04-00.00.07:952][406]LogModuleManager: Shutting down and abandoning module SmartSnapping (903)
+[2023.12.04-00.00.07:952][406]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.12.04-00.00.07:954][406]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.12.04-00.00.07:955][406]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.12.04-00.00.07:956][406]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.12.04-00.00.07:956][406]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.12.04-00.00.07:958][406]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.12.04-00.00.07:962][406]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.12.04-00.00.07:962][406]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.12.04-00.00.07:962][406]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.12.04-00.00.07:962][406]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.12.04-00.00.07:962][406]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.12.04-00.00.07:963][406]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.12.04-00.00.07:965][406]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.12.04-00.00.07:967][406]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.12.04-00.00.07:968][406]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.12.04-00.00.07:968][406]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.12.04-00.00.07:969][406]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.12.04-00.00.08:125][406]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.12.04-00.00.08:125][406]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.12.04-00.00.08:125][406]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.12.04-00.00.08:125][406]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.12.04-00.00.08:125][406]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.12.04-00.00.08:125][406]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.12.04-00.00.08:126][406]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.12.04-00.00.08:126][406]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.12.04-00.00.08:126][406]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.12.04-00.00.08:126][406]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.12.04-00.00.08:126][406]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.12.04-00.00.08:126][406]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.12.04-00.00.08:129][406]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.12.04-00.00.08:139][406]MemoryProfiler: Shutdown
+[2023.12.04-00.00.08:141][406]NetworkingProfiler: Shutdown
+[2023.12.04-00.00.08:141][406]LoadingProfiler: Shutdown
+[2023.12.04-00.00.08:141][406]TimingProfiler: Shutdown
+[2023.12.04-00.00.08:147][406]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.12.04-00.00.08:151][406]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.12.04-00.00.08:151][406]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.12.04-00.00.08:151][406]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.12.04-00.00.08:152][406]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.12.04-00.00.08:153][406]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.12.04-00.00.08:153][406]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.12.04-00.00.08:154][406]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.12.04-00.00.08:154][406]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.12.04-00.00.08:155][406]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.12.04-00.00.08:155][406]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.12.04-00.00.08:156][406]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.12.04-00.00.08:156][406]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.12.04-00.00.08:156][406]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.12.04-00.00.08:156][406]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.12.04-00.00.08:156][406]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.12.04-00.00.08:156][406]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.12.04-00.00.08:157][406]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.12.04-00.00.08:157][406]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.12.04-00.00.08:158][406]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.12.04-00.00.08:158][406]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.12.04-00.00.08:160][406]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.12.04-00.00.08:161][406]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.12.04-00.00.08:163][406]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.12.04-00.00.08:167][406]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.12.04-00.00.08:167][406]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.12.04-00.00.08:167][406]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.12.04-00.00.08:167][406]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.12.04-00.00.08:169][406]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.12.04-00.00.08:171][406]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.12.04-00.00.08:171][406]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.12.04-00.00.08:172][406]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.12.04-00.00.08:184][406]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.12.04-00.00.08:184][406]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.12.04-00.00.08:184][406]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.12.04-00.00.08:184][406]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.12.04-00.00.08:188][406]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.12.04-00.00.08:188][406]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.12.04-00.00.08:188][406]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.12.04-00.00.08:188][406]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.12.04-00.00.08:189][406]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.12.04-00.00.08:191][406]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.12.04-00.00.08:192][406]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.12.04-00.00.08:200][406]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.12.04-00.00.08:200][406]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.12.04-00.00.08:201][406]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.12.04-00.00.08:202][406]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.12.04-00.00.08:224][406]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.12.04-00.00.08:226][406]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (707)
+[2023.12.04-00.00.08:227][406]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (705)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module TakesCore (703)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (701)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (693)
+[2023.12.04-00.00.08:228][406]LogModuleManager: Shutting down and abandoning module CollectionManager (692)
+[2023.12.04-00.00.08:229][406]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (689)
+[2023.12.04-00.00.08:229][406]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (687)
+[2023.12.04-00.00.08:230][406]LogModuleManager: Shutting down and abandoning module LightMixer (685)
+[2023.12.04-00.00.08:230][406]LogModuleManager: Shutting down and abandoning module PluginBrowser (683)
+[2023.12.04-00.00.08:233][406]LogModuleManager: Shutting down and abandoning module TemplateSequence (681)
+[2023.12.04-00.00.08:233][406]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (679)
+[2023.12.04-00.00.08:233][406]LogModuleManager: Shutting down and abandoning module SequencerScripting (677)
+[2023.12.04-00.00.08:234][406]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (675)
+[2023.12.04-00.00.08:234][406]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (673)
+[2023.12.04-00.00.08:234][406]LogModuleManager: Shutting down and abandoning module StylusInput (671)
+[2023.12.04-00.00.08:234][406]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (669)
+[2023.12.04-00.00.08:234][406]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (667)
+[2023.12.04-00.00.08:236][406]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (665)
+[2023.12.04-00.00.08:237][406]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (663)
+[2023.12.04-00.00.08:238][406]LogModuleManager: Shutting down and abandoning module GLTFImporter (661)
+[2023.12.04-00.00.08:238][406]LogModuleManager: Shutting down and abandoning module GLTFCore (659)
+[2023.12.04-00.00.08:238][406]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (657)
+[2023.12.04-00.00.08:238][406]LogModuleManager: Shutting down and abandoning module EditorDebugTools (655)
+[2023.12.04-00.00.08:239][406]LogModuleManager: Shutting down and abandoning module CurveEditorTools (653)
+[2023.12.04-00.00.08:240][406]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (651)
+[2023.12.04-00.00.08:240][406]LogModuleManager: Shutting down and abandoning module CryptoKeys (649)
+[2023.12.04-00.00.08:240][406]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (647)
+[2023.12.04-00.00.08:240][406]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (645)
+[2023.12.04-00.00.08:240][406]LogModuleManager: Shutting down and abandoning module UVEditorTools (643)
+[2023.12.04-00.00.08:241][406]LogModuleManager: Shutting down and abandoning module UVEditor (641)
+[2023.12.04-00.00.08:241][406]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (639)
+[2023.12.04-00.00.08:241][406]LogOpenImageDenoise: OIDN shutting down
+[2023.12.04-00.00.08:241][406]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (637)
+[2023.12.04-00.00.08:242][406]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (635)
+[2023.12.04-00.00.08:244][406]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (633)
+[2023.12.04-00.00.08:245][406]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (631)
+[2023.12.04-00.00.08:246][406]LogModuleManager: Shutting down and abandoning module MeshLODToolset (629)
+[2023.12.04-00.00.08:246][406]LogModuleManager: Shutting down and abandoning module Iris (627)
+[2023.12.04-00.00.08:246][406]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (625)
+[2023.12.04-00.00.08:246][406]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (623)
+[2023.12.04-00.00.08:247][406]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (621)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (619)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (617)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (616)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (614)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (611)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (609)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module DataflowNodes (607)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module DataflowEditor (605)
+[2023.12.04-00.00.08:248][406]LogModuleManager: Shutting down and abandoning module ChaosNiagara (603)
+[2023.12.04-00.00.08:249][406]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (601)
+[2023.12.04-00.00.08:249][406]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (599)
+[2023.12.04-00.00.08:249][406]LogModuleManager: Shutting down and abandoning module FractureEditor (597)
+[2023.12.04-00.00.08:250][406]LogModuleManager: Shutting down and abandoning module BackChannel (595)
+[2023.12.04-00.00.08:251][406]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (593)
+[2023.12.04-00.00.08:251][406]LogModuleManager: Shutting down and abandoning module AutomationUtils (591)
+[2023.12.04-00.00.08:251][406]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (589)
+[2023.12.04-00.00.08:251][406]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (587)
+[2023.12.04-00.00.08:252][406]LogModuleManager: Shutting down and abandoning module InterchangeTests (585)
+[2023.12.04-00.00.08:252][406]LogModuleManager: Shutting down and abandoning module VariantManager (583)
+[2023.12.04-00.00.08:256][406]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (582)
+[2023.12.04-00.00.08:257][406]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (579)
+[2023.12.04-00.00.08:258][406]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (577)
+[2023.12.04-00.00.08:258][406]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (575)
+[2023.12.04-00.00.08:260][406]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (573)
+[2023.12.04-00.00.08:262][406]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (571)
+[2023.12.04-00.00.08:263][406]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (569)
+[2023.12.04-00.00.08:263][406]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (567)
+[2023.12.04-00.00.08:264][406]LogModuleManager: Shutting down and abandoning module InterchangePipelines (565)
+[2023.12.04-00.00.08:264][406]LogModuleManager: Shutting down and abandoning module InterchangeExport (563)
+[2023.12.04-00.00.08:264][406]LogModuleManager: Shutting down and abandoning module InterchangeMessages (561)
+[2023.12.04-00.00.08:264][406]LogModuleManager: Shutting down and abandoning module InterchangeImport (559)
+[2023.12.04-00.00.08:265][406]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (557)
+[2023.12.04-00.00.08:265][406]LogModuleManager: Shutting down and abandoning module InterchangeNodes (555)
+[2023.12.04-00.00.08:265][406]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (553)
+[2023.12.04-00.00.08:265][406]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (551)
+[2023.12.04-00.00.08:265][406]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (549)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module InterchangeEditor (547)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (545)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module ControlRigSpline (543)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (541)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module MediaPlate (539)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (537)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module MediaCompositing (535)
+[2023.12.04-00.00.08:267][406]LogModuleManager: Shutting down and abandoning module ImgMedia (533)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module TakeSequencer (531)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module TakeMovieScene (529)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module UObjectPlugin (527)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (525)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (523)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (521)
+[2023.12.04-00.00.08:268][406]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (519)
+[2023.12.04-00.00.08:269][406]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (517)
+[2023.12.04-00.00.08:270][406]LogModuleManager: Shutting down and abandoning module PluginUtils (515)
+[2023.12.04-00.00.08:270][406]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (513)
+[2023.12.04-00.00.08:273][406]LogModuleManager: Shutting down and abandoning module GitSourceControl (511)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module DumpGPUServices (509)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (507)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module AlembicImporter (505)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module AlembicLibrary (504)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module SynthesisEditor (499)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module ResonanceAudio (497)
+[2023.12.04-00.00.08:274][406]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (495)
+[2023.12.04-00.00.08:275][406]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (493)
+[2023.12.04-00.00.08:275][406]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (491)
+[2023.12.04-00.00.08:275][406]LogModuleManager: Shutting down and abandoning module ModelingOperators (489)
+[2023.12.04-00.00.08:275][406]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (487)
+[2023.12.04-00.00.08:275][406]LogModuleManager: Shutting down and abandoning module ModelingComponents (485)
+[2023.12.04-00.00.08:276][406]LogModuleManager: Shutting down and abandoning module GeometryFramework (484)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (481)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module MeshModelingTools (479)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module InputDebugging (477)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module GooglePAD (475)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (473)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module GeometryCache (471)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (469)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (467)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (465)
+[2023.12.04-00.00.08:277][406]LogModuleManager: Shutting down and abandoning module DynamicMesh (463)
+[2023.12.04-00.00.08:278][406]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (461)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module AudioCapture (459)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (458)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (455)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module AssetTags (453)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (451)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module AppleImageUtils (449)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module AndroidPermission (447)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (445)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (443)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (441)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (439)
+[2023.12.04-00.00.08:279][406]LogModuleManager: Shutting down and abandoning module Paper2DEditor (437)
+[2023.12.04-00.00.08:281][406]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.12.04-00.00.08:281][406]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.12.04-00.00.08:281][406]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module ActorSequence (425)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (423)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (421)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module FacialAnimation (419)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module DataValidation (417)
+[2023.12.04-00.00.08:283][406]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (415)
+[2023.12.04-00.00.08:284][406]LogModuleManager: Shutting down and abandoning module TreeMap (414)
+[2023.12.04-00.00.08:284][406]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (411)
+[2023.12.04-00.00.08:286][406]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (409)
+[2023.12.04-00.00.08:286][406]LogModuleManager: Shutting down and abandoning module PBIK (407)
+[2023.12.04-00.00.08:286][406]LogModuleManager: Shutting down and abandoning module FullBodyIK (405)
+[2023.12.04-00.00.08:286][406]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (403)
+[2023.12.04-00.00.08:286][406]LogModuleManager: Shutting down and abandoning module TakeRecorder (402)
+[2023.12.04-00.00.08:288][406]LogModuleManager: Shutting down and abandoning module LevelEditor (400)
+[2023.12.04-00.00.08:310][406]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (399)
+[2023.12.04-00.00.08:311][406]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (397)
+[2023.12.04-00.00.08:311][406]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (395)
+[2023.12.04-00.00.08:315][406]LogModuleManager: Shutting down and abandoning module MainFrame (393)
+[2023.12.04-00.00.08:316][406]LogModuleManager: Shutting down and abandoning module HotReload (392)
+[2023.12.04-00.00.08:316][406]LogModuleManager: Shutting down and abandoning module ChaosCaching (387)
+[2023.12.04-00.00.08:316][406]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (385)
+[2023.12.04-00.00.08:316][406]LogModuleManager: Shutting down and abandoning module Niagara (383)
+[2023.12.04-00.00.08:317][406]LogModuleManager: Shutting down and abandoning module NiagaraEditor (382)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module ContentBrowser (381)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module ContentBrowserData (380)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module NiagaraCore (375)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (373)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module IKRig (371)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (369)
+[2023.12.04-00.00.08:319][406]LogModuleManager: Shutting down and abandoning module ControlRig (367)
+[2023.12.04-00.00.08:320][406]LogModuleManager: Shutting down and abandoning module LevelSequence (366)
+[2023.12.04-00.00.08:320][406]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (363)
+[2023.12.04-00.00.08:320][406]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (361)
+[2023.12.04-00.00.08:321][406]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (359)
+[2023.12.04-00.00.08:321][406]LogModuleManager: Shutting down and abandoning module AnimationSharing (357)
+[2023.12.04-00.00.08:321][406]LogModuleManager: Shutting down and abandoning module TcpMessaging (355)
+[2023.12.04-00.00.08:421][406]LogModuleManager: Shutting down and abandoning module UdpMessaging (353)
+[2023.12.04-00.00.08:527][406]LogModuleManager: Shutting down and abandoning module Synthesis (351)
+[2023.12.04-00.00.08:532][406]LogModuleManager: Shutting down and abandoning module SoundFields (349)
+[2023.12.04-00.00.08:532][406]LogModuleManager: Shutting down and abandoning module SignificanceManager (347)
+[2023.12.04-00.00.08:532][406]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (345)
+[2023.12.04-00.00.08:532][406]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (343)
+[2023.12.04-00.00.08:532][406]LogModuleManager: Shutting down and abandoning module MetasoundEditor (341)
+[2023.12.04-00.00.08:534][406]LogModuleManager: Shutting down and abandoning module ToolMenus (340)
+[2023.12.04-00.00.08:534][406]LogModuleManager: Shutting down and abandoning module AudioWidgets (338)
+[2023.12.04-00.00.08:534][406]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (337)
+[2023.12.04-00.00.08:535][406]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (333)
+[2023.12.04-00.00.08:536][406]LogModuleManager: Shutting down and abandoning module MetasoundEngine (331)
+[2023.12.04-00.00.08:537][406]LogModuleManager: Shutting down and abandoning module WaveTable (330)
+[2023.12.04-00.00.08:537][406]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (328)
+[2023.12.04-00.00.08:537][406]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (325)
+[2023.12.04-00.00.08:537][406]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (323)
+[2023.12.04-00.00.08:539][406]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (321)
+[2023.12.04-00.00.08:540][406]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (319)
+[2023.12.04-00.00.08:540][406]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (317)
+[2023.12.04-00.00.08:540][406]LogModuleManager: Shutting down and abandoning module CableComponent (315)
+[2023.12.04-00.00.08:541][406]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (313)
+[2023.12.04-00.00.08:541][406]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (311)
+[2023.12.04-00.00.08:541][406]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (310)
+[2023.12.04-00.00.08:541][406]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (307)
+[2023.12.04-00.00.08:541][406]LogModuleManager: Shutting down and abandoning module SignalProcessing (306)
+[2023.12.04-00.00.08:542][406]LogModuleManager: Shutting down and abandoning module GameplayCameras (303)
+[2023.12.04-00.00.08:542][406]LogModuleManager: Shutting down and abandoning module Paper2D (301)
+[2023.12.04-00.00.08:543][406]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.12.04-00.00.08:543][406]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.12.04-00.00.08:543][406]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.12.04-00.00.08:544][406]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.12.04-00.00.08:545][406]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.12.04-00.00.08:545][406]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.12.04-00.00.08:545][406]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.12.04-00.00.08:546][406]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.12.04-00.00.08:546][406]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.12.04-00.00.08:547][406]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.12.04-00.00.08:547][406]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.12.04-00.00.08:550][406]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.12.04-00.00.08:550][406]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.12.04-00.00.08:550][406]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.12.04-00.00.08:550][406]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.12.04-00.00.08:550][406]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.12.04-00.00.08:555][406]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.12.04-00.00.08:555][406]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.12.04-00.00.08:556][406]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.12.04-00.00.08:560][406]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.12.04-00.00.08:561][406]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.12.04-00.00.08:562][406]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.12.04-00.00.08:562][406]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.12.04-00.00.08:562][406]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.12.04-00.00.08:562][406]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.12.04-00.00.08:562][406]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.12.04-00.00.08:563][406]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.12.04-00.00.08:564][406]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.12.04-00.00.08:564][406]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.12.04-00.00.08:565][406]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.12.04-00.00.08:566][406]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.12.04-00.00.08:568][406]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.12.04-00.00.08:568][406]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.12.04-00.00.08:568][406]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.12.04-00.00.08:579][406]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.12.04-00.00.08:579][406]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.12.04-00.00.08:593][406]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.12.04-00.00.08:593][406]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.12.04-00.00.08:593][406]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.12.04-00.00.08:594][406]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.12.04-00.00.08:596][406]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.12.04-00.00.08:596][406]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.12.04-00.00.08:596][406]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.12.04-00.00.08:596][406]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.12.04-00.00.08:597][406]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.12.04-00.00.08:597][406]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.12.04-00.00.08:597][406]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.12.04-00.00.08:597][406]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.12.04-00.00.08:597][406]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.12.04-00.00.08:598][406]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.12.04-00.00.08:600][406]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.12.04-00.00.08:602][406]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.12.04-00.00.08:602][406]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.12.04-00.00.08:602][406]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.12.04-00.00.08:602][406]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.12.04-00.00.08:602][406]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.12.04-00.00.08:603][406]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.12.04-00.00.08:603][406]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.12.04-00.00.08:603][406]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.12.04-00.00.08:603][406]LogModuleManager: Shutting down and abandoning module AISupportModule (112)
+[2023.12.04-00.00.08:603][406]LogModuleManager: Shutting down and abandoning module ChaosCloth (110)
+[2023.12.04-00.00.08:604][406]LogModuleManager: Shutting down and abandoning module VariantManagerContent (108)
+[2023.12.04-00.00.08:604][406]LogModuleManager: Shutting down and abandoning module GLTFExporter (106)
+[2023.12.04-00.00.08:606][406]LogModuleManager: Shutting down and abandoning module DatasmithContent (104)
+[2023.12.04-00.00.08:606][406]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (102)
+[2023.12.04-00.00.08:606][406]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (100)
+[2023.12.04-00.00.08:606][406]LogModuleManager: Shutting down and abandoning module NiagaraShader (98)
+[2023.12.04-00.00.08:606][406]LogModuleManager: Shutting down and abandoning module WmfMedia (96)
+[2023.12.04-00.00.08:610][406]LogModuleManager: Shutting down and abandoning module Media (95)
+[2023.12.04-00.00.08:612][406]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (92)
+[2023.12.04-00.00.08:612][406]LogModuleManager: Shutting down and abandoning module PixWinPlugin (90)
+[2023.12.04-00.00.08:613][406]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2023.12.04-00.00.08:613][406]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (86)
+[2023.12.04-00.00.08:613][406]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2023.12.04-00.00.08:615][406]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2023.12.04-00.00.08:616][406]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2023.12.04-00.00.08:645][406]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2023.12.04-00.00.08:646][406]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.12.04-00.00.08:646][406]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2251069B-4CFA-6AE5-40F0-9A8041D11913%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=0329773e42a39dcd494cd0936c94a15c%7C1c2474cec2be4d6b9c9827c5cc729131%7C9b558c76-4fab-4154-9831-4c9d0dc95598&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.12.04-00.00.08:674][406]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2023.12.04-00.00.08:676][406]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (70)
+[2023.12.04-00.00.08:676][406]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (68)
+[2023.12.04-00.00.08:677][406]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (66)
+[2023.12.04-00.00.08:678][406]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (64)
+[2023.12.04-00.00.08:678][406]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (62)
+[2023.12.04-00.00.08:678][406]LogModuleManager: Shutting down and abandoning module ChunkDownloader (60)
+[2023.12.04-00.00.08:679][406]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.12.04-00.00.08:679][406]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.12.04-00.00.08:679][406]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.12.04-00.00.08:680][406]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.12.04-00.00.08:680][406]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.12.04-00.00.08:680][406]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.12.04-00.00.08:682][406]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.12.04-00.00.08:685][406]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.12.04-00.00.08:685][406]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.12.04-00.00.08:687][406]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.12.04-00.00.08:688][406]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.12.04-00.00.08:689][406]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.12.04-00.00.08:690][406]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.12.04-00.00.08:691][406]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.12.04-00.00.08:691][406]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.12.04-00.00.08:692][406]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.12.04-00.00.08:692][406]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.12.04-00.00.08:692][406]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.12.04-00.00.08:696][406]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.12.04-00.00.08:696][406]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.12.04-00.00.08:698][406]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.12.04-00.00.08:698][406]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.12.04-00.00.08:698][406]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.12.04-00.00.08:699][406]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.12.04-00.00.08:699][406]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.12.04-00.00.08:699][406]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.12.04-00.00.08:699][406]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.12.04-00.00.08:699][406]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.12.04-00.00.08:700][406]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.12.04-00.00.09:604][406]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.12.04-00.00.09:662][406]LogExit: Exiting.
+[2023.12.04-00.00.09:699][406]Log file closed, 12/03/23 21:00:09
